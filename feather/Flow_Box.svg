@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: SketchAPI 4.1.465 <https://api.sketch.io/> -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketchjs="https://sketch.io/dtd/" sketchjs:metadata="eyJ0aXRsZSI6IkRyYXdpbmciLCJkZXNjcmlwdGlvbiI6Im1hZGUgd2l0aCBTa2V0Y2hwYWQgLSBodHRwczovL3NrZXRjaC5pby9za2V0Y2hwYWQiLCJtZXRhZGF0YSI6e30sImNsaXAiOnsiZW5hYmxlZCI6dHJ1ZSwic3R5bGUiOnsic3Ryb2tlU3R5bGUiOiJibGFjayIsInNoYWRvd0NvbG9yIjoicmdiYSgyNTUsMjU1LDI1NSwwLjE1KSIsInNoYWRvd0JsdXIiOjEsImxpbmVXaWR0aCI6Mn19LCJleHBvcnREUEkiOjcyLCJleHBvcnRGb3JtYXQiOiJwbmciLCJleHBvcnRRdWFsaXR5IjowLjk1LCJ1bml0cyI6IiUiLCJ3aWR0aCI6MTAwLCJoZWlnaHQiOjEwMCwic2NhbGUiOjEsInBhZ2VzIjp7Imxlbmd0aCI6MSwiZGF0YSI6W3sid2lkdGgiOjEwMCwiaGVpZ2h0IjoxMDB9XX19" sketchjs:version="4.1.465">
+<g sketchjs:tool="rectangle" style="fill: none; mix-blend-mode: source-over; opacity: NaN;">
+	<path id="c813e439_x2d6c4c_x2d4c4f_x2db5b8_x2d0c2ef3be311b" style="vector-effect: non-scaling-stroke;" d="M0 -235.5 L1217 -235.5 1217 981.5 0 981.5 z"/>
+	<use xlink:href="#c813e439_x2d6c4c_x2d4c4f_x2db5b8_x2d0c2ef3be311b"/>
+	<use xlink:href="#c813e439_x2d6c4c_x2d4c4f_x2db5b8_x2d0c2ef3be311b" style="fill: white; fill-opacity: 1;"/>
+</g>
+<g sketchjs:tool="square" style="fill: none; mix-blend-mode: source-over;" transform="matrix(-0.00569126780602624,-0.9902805982485524,1.9022696663509069,-0.010932584289373177,114.99999999999997,417.99999999999966)">
+	<path id="b812c61b_x2df78c_x2d4991_x2d953a_x2d310c843aad5e" style="vector-effect: non-scaling-stroke;" d="M0 0 L348.01 0 348.01 348.01 0 348.01 z"/>
+	<use xlink:href="#b812c61b_x2df78c_x2d4991_x2d953a_x2d310c843aad5e" style="stroke: #000000; stroke-dasharray: none; stroke-dashoffset: 0; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-width: 1;"/>
+	<use xlink:href="#b812c61b_x2df78c_x2d4991_x2d953a_x2d310c843aad5e" style="fill: #ffffff; fill-opacity: 1;"/>
+</g>
+</svg>
